@@ -1008,9 +1008,9 @@ span.position-absolute {
 }
 
 a.link-product-add-cart:hover {
-	background: #acdcf3;
-	color: #040303;
-	border: 1px solid #040303;
+	background:#f0475f;
+	color: #fefefe;
+	border-radius: 1px solid #040303;
 	
 }
 
